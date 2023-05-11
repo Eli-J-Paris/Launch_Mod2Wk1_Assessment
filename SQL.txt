@@ -19,3 +19,5 @@ WHERE artistName = 'The Chainsmokers'; >
 < UPDATE songs
 SET peakPosition = 3
 WHERE songname ='Congratulations'; >
+
+This is a test to see how the branches in the git repo works
