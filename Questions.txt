@@ -1,10 +1,10 @@
 *** QUESTIONS ***
 
 1. What does it mean to `commit` in a git repository?
-< When you Commit something it makes a save point of where that project is currently at. The devloper can then return back to that check point later >
+< When you Commit something it makes a save point of where that project is currently at. The devloper can then return back to that save point later >
 
 2. When should you create a new branch?  Use examples in your answer!
-< A developer should create a branch when trying to inmplemete a new feature or function to a project that needs to be devloped. The main branch is usually reserved for product ready code. So if I was creating an application for a store and wanted to create a shopping cart feature I would create a new branch where I could build out the code for the shopping cart. >
+< A developer should create a branch when trying to inmplement a new feature or function to a project that needs to be devloped. The main branch is usually reserved for product ready code. So if I was creating an application for a store and wanted to create a shopping cart feature I would create a new branch where I could build out the code for the shopping cart keeping it seperate from the main branch until it is complete. >
 
 3. In your own words, what is a database?  Use examples to explain.
 < A data base is a place where you can store data that then can be pulled out or 'read' which returns either data or information>
