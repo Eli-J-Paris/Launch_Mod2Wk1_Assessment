@@ -1,13 +1,13 @@
 *** QUESTIONS ***
 
 1. What does it mean to `commit` in a git repository?
-< Your answer here >
+< When you Commit something it makes a save point of where that project is currently at. The devloper can then return back to that check point later >
 
 2. When should you create a new branch?  Use examples in your answer!
-< Your answer here >
+< A developer should create a branch when trying to inmplemete a new feature or function to a project that needs to be devloped. The main branch is usually reserved for product ready code. So if I was creating an application for a store and wanted to create a shopping cart feature I would create a new branch where I could build out the code for the shopping cart. >
 
 3. In your own words, what is a database?  Use examples to explain.
-< Your answer here >
+< A data base is a place where you can store data that then can be pulled out or 'read' which returns either data or information>
 
 4. In a database, how do we create relationships between tables?
-< Your answer here >
+< We create relationships between SQL databases by creating a primary key for each of our 'tables', which is unique to that table. Then We can also create a foreign key that will referance a primary key on another table and will act as the link between tables. >
